@@ -1,0 +1,36 @@
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: #201d1dcf;
+}
+
+.statList {
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  border: 1px solid #6b6677;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: aliceblue;
+}
+
+.percentage {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: aliceblue;
+}

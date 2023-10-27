@@ -1,0 +1,16 @@
+.section {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  padding: 40px;
+  border: 0.5px solid #0300114a;
+}
+
+.section:first-child {
+  margin-top: 30px;
+}
+
+.section:last-child {
+  margin-bottom: 0;
+}
